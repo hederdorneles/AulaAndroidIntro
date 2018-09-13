@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TesteAula</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="enviar">Enviar</string>
+</resources>
